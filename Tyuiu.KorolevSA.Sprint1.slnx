@@ -12,8 +12,8 @@
   </Folder>
   <Folder Name="/Task2/">
     <File Path="tyuiu.cources.programming.interfaces.dll" />
-    <Project Path="Tyuiu.KorolevSA.Sprint1.Task2.V29.Lib/Tyuiu.KorolevSA.sprint1.Task2.V29.Lib.csproj" Id="553260cb-6b12-41e9-bbaf-88210278b749" DisplayName="Tyuiu.KorolevSA.Sprint1.Task2.V29.Lib" />
-    <Project Path="Tyuiu.KorolevSA.Sprint1.Task2.V29.Test/Tyuiu.KorolevSA.Sprint1.Task2.V29.Test.csproj" Id="996a42d6-7bd8-48b8-a73d-101e6882ed85" />
-    <Project Path="Tyuiu.KorolevSA.Sprint1.Task2.V29/Tyuiu.KorolevSA.sprint1.Task2.V29.csproj" Id="82b55f02-ecd7-49fd-8508-f79ee315557d" DisplayName="Tyuiu.KorolevSA.Sprint1.Task2.V29" />
+    <Project Path="Tyuiu.KorolevSA.Sprint1.Task2.V29.Lib/Tyuiu.KorolevSA.sprint1.Task2.V29.Lib.csproj" Id="553260cb-6b12-41e9-bbaf-88210278b749" />
+    <Project Path="Tyuiu.KorolevSA.Sprint1.Task2.V29.Test/Tyuiu.KorolevSA.Sprint1.Task2.V29.Test.csproj" Id="996a42d6-7bd8-48b8-a73d-101e6882ed85" DisplayName="Tyuiu.KorolevSA.sprint1.Task2.V29.Test" />
+    <Project Path="Tyuiu.KorolevSA.Sprint1.Task2.V29/Tyuiu.KorolevSA.sprint1.Task2.V29.csproj" Id="82b55f02-ecd7-49fd-8508-f79ee315557d" />
   </Folder>
 </Solution>
