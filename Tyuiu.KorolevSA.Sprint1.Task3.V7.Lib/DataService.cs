@@ -9,9 +9,9 @@ using tyuiu.cources.programming.interfaces.Sprint1;
 
 namespace Tyuiu.KorolevSA.Sprint1.Task3.V7.Lib
 {
-    public class DataService : ISprint1Task3V7
+    public class DataService : ISprint1Task3V12 /// невозможно написать тест??
     {
-        public void Calculate() // VOID В ВЫЧИСЛИТЕЛЬНОЙ ЗАДАЧЕ????????
+        public void Calculate()
         {
             
         }
