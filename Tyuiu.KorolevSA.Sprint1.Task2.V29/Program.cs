@@ -41,6 +41,7 @@ namespace Tyuiu.KorolevSA.Sprint1.Task2.V29
             Console.WriteLine("***************************************************************************");
 
             Console.WriteLine("Количество целых минут:" + dataService.Calculate(timeSec));
+            Console.ReadLine();
         }
     }
 }
